@@ -20,7 +20,7 @@ with open("CHANGELOG.md") as history_file:
 install_requirements = [
     "coloredlogs==15.0.1",
     "Flask==3.0.0",
-    "Flask-Cors==4.0.0",
+    "Flask-Cors==5.0.0",
     "flask-swagger==0.2.14",
     "flask-swagger-ui==4.11.1",
     "Jinja2>=2.10.1",
